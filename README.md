@@ -77,6 +77,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Media
 
+
 ![Untitled design](https://github.com/user-attachments/assets/1a5042f3-08ea-4a22-b808-c4db9ab045a6)
 
 
@@ -88,4 +89,4 @@ Ahyan Mehta
 
 Github Profile: [https://github.com/Ahyan-M](https://github.com/Ahyan-M)
 
-Linkedin [https://www.linkedin.com/in/ahyanmehta1/](https://www.linkedin.com/in/ahyanmehta1/)
+Linkedin: [https://www.linkedin.com/in/ahyanmehta1/](https://www.linkedin.com/in/ahyanmehta1/)
